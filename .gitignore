@@ -1,0 +1,12 @@
+# секреты и состояние — в репозиторий НЕ коммитить
+.env
+agent.db
+out/
+*.log
+agent_session.session
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
